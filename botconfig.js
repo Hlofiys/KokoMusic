@@ -14,7 +14,7 @@ module.exports = {
   "24/7": false,
   CookieSecret: "Pikachu is cute",
   IconURL:
-    "",
+    "https://raw.githubusercontent.com/Hlofiys/KokoMusic/main/assets/logo.gif",
   EmbedColor: "RANDOM", 
   Permissions: 2205281600, 
   Website: process.env.Website || "https://bot.hlofiys.tk", //без / в конце
